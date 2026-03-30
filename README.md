@@ -84,7 +84,7 @@ python manage.py runserver 0.0.0.0:8000
 ###  Frontend Setup
 
 ```bash
-cd frontend
+cd amsapp
 npm install --legacy-peer-deps
 ```
 
