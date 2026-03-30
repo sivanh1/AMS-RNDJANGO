@@ -63,16 +63,7 @@ This system allows employees to mark attendance, apply for leave or work-from-ho
 
 ##  Setup Instructions
 
-### Backend Setup
 
-```bash
-cd backend
-python -m venv venv
-venv\Scripts\activate   # Windows
-# source venv/bin/activate  # Mac/Linux
-
-pip install -r requirements.txt
-```
 
 ### MySQL Setup
 
