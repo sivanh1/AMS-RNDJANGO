@@ -1,9 +1,5 @@
 # AMS — Attendance Management System
-
-A full-stack mobile-based Attendance Management System developed using **React Native**, **Django REST Framework**, and **MySQL**.
----
-
-# Application Screenshots
+# Screenshots
 
 | User Dashboard | Apply WFH |
 |---|---|
