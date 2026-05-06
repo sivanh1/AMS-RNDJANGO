@@ -7,11 +7,11 @@
 
 | User Dashboard                             | Apply WFH                             |
 | ------------------------------------------ | ------------------------------------- |
-| ![User Dashboard](./screenshots/img1.jpeg) | ![Apply WFH](./screenshots/img2.jpeg) |
+| ![User Dashboard](./Screenshots/img1.jpeg) | ![Apply WFH](./Screenshots/img2.jpeg) |
 
 | Pending Requests                             | Admin Dashboard                             |
 | -------------------------------------------- | ------------------------------------------- |
-| ![Pending Requests](./screenshots/img3.jpeg) | ![Admin Dashboard](./screenshots/img4.jpeg) |
+| ![Pending Requests](./Screenshots/img3.jpeg) | ![Admin Dashboard](./Screenshots/img4.jpeg) |
 
 ---
 ##  Overview
